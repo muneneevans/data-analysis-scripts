@@ -1,0 +1,8 @@
+{
+  "database": "mohdsl",
+  "schema": "public",
+  "user": "dsl",
+  "host": "41.89.93.180",
+  "port": "5432",
+  "passw": "dsl2017"
+}
